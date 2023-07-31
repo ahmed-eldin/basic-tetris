@@ -1,10 +1,11 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="342" alt="Screenshot 2023-07-31 at 6 39 34 PM" src="https://github.com/ahmed-eldin/basic-tetris/assets/111728755/2d59b946-ff1b-4637-9d1c-21712fc7d1fe">
+
 
 
 # JavaScript Tetris Game
 
-The JavaScript Tetris Game is a classic and addictive puzzle game where players must arrange falling blocks to create complete horizontal lines. As you clear lines, the game becomes faster and more challenging. Aim for high scores and see how long you can survive in this timeless Tetris experience.
+This JavaScript Tetris Game is a classic and addictive puzzle game where players must arrange falling blocks to create complete horizontal lines. As you clear lines, the game becomes faster and more challenging. Aim for high scores and see how long you can survive in this timeless Tetris experience.
 ## Features
 
 Classic Tetris gameplay with responsive controls and store tracking.
