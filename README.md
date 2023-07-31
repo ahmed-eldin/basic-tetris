@@ -8,7 +8,7 @@
 This JavaScript Tetris Game is a classic and addictive puzzle game where players must arrange falling blocks to create complete horizontal lines. As you clear lines, the game becomes faster and more challenging. Aim for high scores and see how long you can survive in this timeless Tetris experience.
 ## Features
 
-Classic Tetris gameplay with responsive controls and store tracking.
+Classic Tetris gameplay with responsive controls and score tracking.
 ## How to Play
 
 1.) Clone this repository to your local machine.
